@@ -501,5 +501,8 @@ p {
 	border-radius: 5px;
 }
 .img-profile-1{
-	margin: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
 }
