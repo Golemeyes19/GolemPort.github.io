@@ -743,7 +743,7 @@ a.button2 {
 }
 
 a.button2{
-	background-color: #4699c2;
+	background-color: #4f7ce6;
 
 }
 
@@ -816,6 +816,10 @@ a.button2{
 
 }
 
+.img-skill{
+	width: 100%;
+
+}
 
 .img-temple img{
 	width: 100%;
@@ -855,7 +859,7 @@ a.button2{
 
 .container-skill {
 	width: 100%;
-	 background-color: rgb(59, 59, 59);
+	 background-color: rgb(97, 97, 97);
 	 border-radius: 9px;
 }
 
