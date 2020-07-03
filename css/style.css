@@ -948,7 +948,15 @@ a.button2{
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
+
   }
+  @media screen and (max-width:400px) {
+	.hero-image .image{
+		height: 20%;
+
+	}
+  }
+  
 
 .container-button {
 	padding-top: 2rem;
